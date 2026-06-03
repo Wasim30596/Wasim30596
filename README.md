@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Wasim Akram 👋
 
-<!--
-**Wasim30596/Wasim30596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps Engineer | QA Automation Engineer
 
-Here are some ideas to get you started:
+QA Automation Engineer with 3+ years of experience transitioning into DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+☁️ AWS
+- EC2
+- VPC
+- IAM
+- S3
+- Load Balancer
+
+🐳 Docker
+
+☸️ Kubernetes
+
+🏗️ Terraform
+
+🔧 Jenkins
+
+⚙️ GitHub Actions
+
+🐧 Linux Administration
+
+🧪 QA Automation
+- TestComplete
+- Sikuli
+- Talos
+- Postman
+
+### DevOps Projects
+
+🚀 MindTrack
+- AWS Deployment
+- Docker Containerization
+- CI/CD Automation
+
+🚀 TrendStore
+- Docker
+- AWS
+- DevOps Pipeline
+
+🚀 ReactJS E-Commerce Application
+- Jenkins
+- Docker
+- AWS
+- CI/CD
+
+### Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/wasim-akram-61191b277
+
+GitHub:
+github.com/Wasim30596
